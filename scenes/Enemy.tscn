@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://Enemy.gd" type="Script" id=1]
+[ext_resource path="res://src/Enemy.gd" type="Script" id=1]
 [ext_resource path="res://Heart Space Shooter Resources/Enemy.png" type="Texture" id=2]
 
 [node name="Enemy" type="Area2D"]

@@ -1,6 +1,6 @@
 extends Node2D
 
-const Enemy : PackedScene = preload("res://Enemy.tscn")
+const Enemy : PackedScene = preload("res://Scenes/Enemy.tscn")
 
 onready var spwanPoints = $SpawnPoints
 

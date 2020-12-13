@@ -17,8 +17,13 @@ _global_script_class_icons={
 
 config/name="Space_Shooter"
 config/description="None"
-run/main_scene="res://World.tscn"
+run/main_scene="res://StartMenu.tscn"
 config/version="0.0.0"
+
+[autoload]
+
+Music="*res://scenes/Music.tscn"
+SaveAndLoad="*res://SaveAndLoad.gd"
 
 [display]
 
